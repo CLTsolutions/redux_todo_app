@@ -1,3 +1,5 @@
+// presentational component
+
 import TodoItem from './TodoItem';
 
 const TodoList = (props) => {

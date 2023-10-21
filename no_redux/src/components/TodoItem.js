@@ -1,5 +1,6 @@
 const TodoItem = (props) => {
   const { todo, index } = props;
+
   return (
     <li>
       <input
